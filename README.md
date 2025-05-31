@@ -17,6 +17,10 @@ Aplicación de escritorio para registrar y gestionar gastos e ingresos personale
 - [Bootstrap 5](https://getbootstrap.com/)
 - JavaScript, HTML y CSS
 
+- ![Pantalla Registro](assets/registro.png)
+![Pantalla Transacciones](assets/transaccion.png)
+
+
 ## Cómo usar
 
 1. Clonar el repositorio:
@@ -44,20 +48,5 @@ Estructura de carpetas
 
     .gitignore: archivos y carpetas ignoradas por Git.
 
-    Agregar imágenes
 
-Guarda imágenes dentro de una carpeta llamada assets o img en la raíz del proyecto. Por ejemplo:
-gestor-gastos-electron/
-│
-├── assets/
-│   └── logo.png
-├── main.js
-├── renderer.js
-├── index.html
-├── style.css
-├── package.json
-└── ...
-
-Para usarlas en HTML:
-<img src="assets/logo.png" alt="Logo">
 
