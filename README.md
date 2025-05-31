@@ -18,7 +18,7 @@ Aplicación de escritorio para registrar y gestionar gastos e ingresos personale
 - JavaScript, HTML y CSS
 
 - ![Pantalla Registro](assets/registro.png)
-![Pantalla Transacciones](assets/transaccion.png)
+![Pantalla Transacciones](assets/transaccion_csv.png)
 
 
 ## Cómo usar
