@@ -1,0 +1,34 @@
+# Node modules
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencias instaladas globalmente
+/.pnp
+.pnp.js
+
+# Archivos de sistema de OS
+.DS_Store
+Thumbs.db
+
+# Carpetas de producción empaquetadas
+/dist
+/build
+/out
+
+# Configuración local de VSCode (si usas VSCode)
+.vscode/
+
+# Archivos temporales y de cache
+*.log
+*.tmp
+
+# Archivos de base de datos SQLite (si quieres evitar subir datos locales)
+*.sqlite
+*.db
+
+# Otros
+.env
